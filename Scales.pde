@@ -3,7 +3,7 @@ void setup(){
   size(610,610);
   background(0);
   Scale(0,0);
-  
+  noLoop();
 
 }
 
